@@ -1,3 +1,8 @@
 # sample list ( src for malconv.rb )
 * hello-tio.mals   
   hello world program published on tio.run
+* hello.mals  
+  hello world program generated with mksrc4fixed.rb
+* fizzbuzz.mals
+  fizzbuzz program generated with mksrc4fixed.rb
+
