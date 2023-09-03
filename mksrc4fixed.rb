@@ -29,7 +29,7 @@
 #
 SLICE_SIZE = 16
 SRC_H = 'N*6 DRDN DRDN DRDN DD N>25 I ?>35 GE ?>47 E'
-SRC_S = '?>2196 E'
+SRC_S = 'N>2196 E'
 CODEDB = DATA.map{|line|
   t = line.chomp.split(/, |:/)
   96.times.map{|i| t[i*3+2,2] }
